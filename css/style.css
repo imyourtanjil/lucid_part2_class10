@@ -89,7 +89,7 @@
   /* header section er kaj ekhan theke shuru */
   header {
     width: 100%;
-    background-image: url(img/banner.png);
+    background-image: url(../img/banner.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 90vh;
